@@ -1,1 +1,1 @@
-# Perceptron
+Perceptron Python code.
